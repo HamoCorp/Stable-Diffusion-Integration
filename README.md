@@ -9,6 +9,7 @@ An integration for Resonite Mod ResoDiffusion [https://github.com/HamoCorp/ResoD
 
 # aditional information
 
+- this might hurt for a few seconds when you run it in VR. You can reduce the settings so it won't hurt asmuch
 - Inside the stableDiffusion folder you will have an automaticly created Input and output folder, but you can manually access them and add your own images as well.
 - also the output folder stores all your generated images so remember to clear them after some time
 - Models will automatically install from hugging face when you use them for the first time
